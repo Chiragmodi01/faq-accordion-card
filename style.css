@@ -17,6 +17,7 @@ body{
   height: 75vh;
   width: 65%;
   position: relative;
+  box-shadow: 0px 15px 16px 0px rgba(0, 0, 0, 0.4);
 }
 
 h1{
